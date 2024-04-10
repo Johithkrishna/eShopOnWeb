@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 4397dd8e-8eaa-495e-91c2-f15acd3e33a0
-  NAME: eshoponweb-webapp-NAME
+  NAME: eshoponweb-webapp-Johith
 
 
 jobs:
